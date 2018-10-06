@@ -1,2 +1,2 @@
 # AAG
-"Fronten" folder was not uploaded.
+"Frontend" folder was not uploaded.
