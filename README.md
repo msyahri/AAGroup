@@ -1,2 +1,2 @@
 # AAG
-"Frontend" & Daabases not uploaded.
+"Frontend" & Database not uploaded.
