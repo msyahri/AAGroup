@@ -1,2 +1,2 @@
 # AAG
-"Frontend" folder not uploaded.
+"Frontend" & Daabases not uploaded.
